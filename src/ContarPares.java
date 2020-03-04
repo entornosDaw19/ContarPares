@@ -11,7 +11,7 @@ public static void main(String[] args) {
 int contadorPares = calculaNumPareshastaN(10);
 System.out.println("Hay "+contadorPares+" números de pares del 0 al 10");
 System.out.println("FIn del programa");
-		
+System.out.println("FIn del programa2");		
 }
 
 private static int calculaNumPareshastaN(int n) {
